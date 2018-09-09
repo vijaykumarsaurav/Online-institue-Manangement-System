@@ -1,0 +1,40 @@
+body{ 
+	background:#8f8fbd;
+	background-image:url(background.png);
+	font-size: 13px;
+	}
+
+#main1{
+	
+	width:1200px;
+	height:380px;
+
+	}
+#one{ 	
+	
+	background:;
+	width:1200px;
+	height:35px;
+
+	}
+#eight{
+	background-color:;
+	width:900px;
+	height:320px;
+	float:right;
+	margin-top:10px;
+	margin-right:10px;
+	}
+#menu {
+	background-image:url(menu.gif);
+	width: 200px;
+	margin: 0px;
+	}
+#menu1{
+	background-color:#d9d9f3;
+	width: 200px;
+	HEIGHT:800;
+	margin: 10px;
+	float:left;
+	}
+
